@@ -1,0 +1,5 @@
+hide_disclaimer = "YES"
+ipv4_bind_addresses = "127.0.0.1"
+chroot_dir = "/home/semyon/study/Networks/ЛР-4/zones"
+csv2 = {}
+csv2["semyon.shishkin.ru."] = "db.zone1"
