@@ -1,0 +1,9 @@
+PORT=8000 node server.js
+Запуск на 8000 порту
+
+Сервера запускать на 8000 и 8001 портах
+
+При переходе на localhost активны следующие роуты (а не first и second):
+localhost/color 
+localhost/black
+Настроить роуты можно в файле /etc/nginx/sites-enabled
